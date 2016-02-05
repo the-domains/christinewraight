@@ -1,6 +1,6 @@
 name: Christine Wraight
 favicon: null
-layout_spectrum: 0.6042553544975817
+layout_spectrum: 0.49517
 typography_spectrum: 0.6228395940270275
 title: Portfolio
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2004981879144907
+  brandStrength: 0.5625
   lightness: 0.6402725980151445
-  saturation: 0.5047579165548086
+  saturation: 0.625
   rhythmicContrast: 0.3927393574267626
 purpose: []
