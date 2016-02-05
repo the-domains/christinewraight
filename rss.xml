@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Portfolio]]></title>
         <description><![CDATA[Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christinewraight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 14:45:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 14:48:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christinewraight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>stream</p>]]></description>
-            <link>undefinedstream/index.html</link>
+            <title><![CDATA[Hallo Welt]]></title>
+            <description><![CDATA[<article><h1>Hallo Welt</h1><p>Mein erster post</p></article>]]></description>
+            <link>http://techcrunch.com/2016/02/04/watch-microsoft-ventures-tel-aviv-accelerator-right-here/</link>
             <guid isPermaLink="false">835a84a3-ee50-47a2-ab2e-2f5bf75d5d8f</guid>
-            <pubDate>Fri, 05 Feb 2016 14:45:32 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 14:47:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
